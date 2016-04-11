@@ -26,4 +26,7 @@ Bei indepent runs ist jeweils 5 eingestellt. Das läuft ziemlich lange durch.
 Bei beiden Skripten wird derzeit die Albedo mit optimiert, aber das lässt sich auch beheben wie erwähnt.
 
 
+quadtree fct is from J́onsson, S., Zebker, H.A., Segall, P. & Amelung, F., 2002. Fault slip distri bution of the 1999 Mw7.2 Hector Mine earthquake, California, estimated from satellite radar and GPS measurements, Bull. seism. Soc. Am., 92(4)
+
+
 
