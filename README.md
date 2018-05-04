@@ -1,6 +1,6 @@
 # thermalintertia
 
-Short matlab scripts (optimrtiraw.m) for optimizing for thermal inertia and estimate parameters density, heat capcity and conductivity, assuming a two layer model. 
+Short matlab scripts (optimrtiraw.m) for optimizing for thermal inertia and estimate parameters density, heat capcity and conductivity, assuming a two layer model. Data input are at least two thermal images.
 
 The same exisits for soil moisture in:
 optimrtisoilmoisture.m
