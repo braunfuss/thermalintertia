@@ -7,8 +7,7 @@ optimrtisoilmoisture.m
 
 Data and results are subsampled using a Quadtree (interactive with mouse input).
 
-
-
+For questions please contact: andreas.steinberg@ifg.uni-kiel.de
 
 quadtree fct is from J́onsson, S., Zebker, H.A., Segall, P. & Amelung, F., 2002. Fault slip distri bution of the 1999 Mw7.2 Hector Mine earthquake, California, estimated from satellite radar and GPS measurements, Bull. seism. Soc. Am., 92(4)
 
